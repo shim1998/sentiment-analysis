@@ -1,0 +1,13 @@
+tensorflow
+
+keras
+
+numpy
+
+flask
+
+flask_bootstrap
+
+bs4
+
+nltk
